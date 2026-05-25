@@ -30,6 +30,7 @@
 - **[ghdl-wasm](https://github.com/UnsignedChad/ghdl-wasm)** / **[ghdl-browser](https://github.com/UnsignedChad/ghdl-browser)** -- GHDL compiled to WebAssembly so VHDL can run in a browser.
 - **[nvc-wasm](https://github.com/UnsignedChad/nvc-wasm)** -- NVC (alternative open-source VHDL compiler) ported to WebAssembly.
 - **[FPGA_Webserver](https://github.com/UnsignedChad/FPGA_Webserver)** -- completing hamsternz's abandoned VHDL web server. target: Arty A7-35T.
+- **[nickg/nvc](https://github.com/nickg/nvc)** -- merged [#1549](https://github.com/nickg/nvc/pull/1549) into NVC (VHDL compiler & simulator). fixed function signature mismatches in the JIT foreign-call interface; killed UB that broke sanitizers and WASM builds.
 
 ### academic
 
