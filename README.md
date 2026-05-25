@@ -10,18 +10,18 @@
 
 ### oss work
 
-- **[circuitcore](https://github.com/UnsignedChad/circuitcore)** — PCB analysis toolkit. pdnkit (power integrity), sikit (signal integrity), emikit (EMI / radiated emissions). C++23, Qt6, Eigen, SuiteSparse. one shared board model parsed from `.kicad_pcb`.
-- **[VHDLive](https://github.com/UnsignedChad/VHDLive)** — browser-based VHDL simulation environment.
-- **[ghdl-wasm](https://github.com/UnsignedChad/ghdl-wasm)** / **[ghdl-browser](https://github.com/UnsignedChad/ghdl-browser)** — GHDL compiled to WebAssembly so VHDL can run in a browser.
-- **[FPGA_Webserver](https://github.com/UnsignedChad/FPGA_Webserver)** — completing hamsternz's abandoned VHDL web server. target: Arty A7-35T.
-- **[etf-risky-bot](https://github.com/UnsignedChad/etf-risky-bot)** — personal trading bot. LLM ensemble + PPO RL with a Textual TUI.
+- **[circuitcore](https://github.com/UnsignedChad/circuitcore)** -- PCB analysis toolkit. pdnkit (power integrity), sikit (signal integrity), emikit (EMI / radiated emissions). C++23, Qt6, Eigen, SuiteSparse. one shared board model parsed from `.kicad_pcb`.
+- **[VHDLive](https://github.com/UnsignedChad/VHDLive)** -- browser-based VHDL simulation environment.
+- **[ghdl-wasm](https://github.com/UnsignedChad/ghdl-wasm)** / **[ghdl-browser](https://github.com/UnsignedChad/ghdl-browser)** -- GHDL compiled to WebAssembly so VHDL can run in a browser.
+- **[FPGA_Webserver](https://github.com/UnsignedChad/FPGA_Webserver)** -- completing hamsternz's abandoned VHDL web server. target: Arty A7-35T.
+- **[etf-risky-bot](https://github.com/UnsignedChad/etf-risky-bot)** -- personal trading bot. LLM ensemble + PPO RL with a Textual TUI.
 
 ### academic
 
-- FSU Honors profile — [honors.fsu.edu/charles-kennedy](https://honors.fsu.edu/charles-kennedy)
-- FSU CAPS (Center for Advanced Power Systems) personnel — [caps.fsu.edu/.../charles-kennedy](https://www.caps.fsu.edu/about-caps/caps-personnel/charles-kennedy/)
-- MATLAB Central — [mathworks.com/matlabcentral/profile/authors/10876168](https://www.mathworks.com/matlabcentral/profile/authors/10876168)
-- [QuotientRule](https://github.com/UnsignedChad/QuotientRule) — alternative proof of the quotient rule (TeX).
+- FSU Honors profile -- [honors.fsu.edu/charles-kennedy](https://honors.fsu.edu/charles-kennedy)
+- FSU CAPS (Center for Advanced Power Systems) personnel -- [caps.fsu.edu/.../charles-kennedy](https://www.caps.fsu.edu/about-caps/caps-personnel/charles-kennedy/)
+- MATLAB Central -- [mathworks.com/matlabcentral/profile/authors/10876168](https://www.mathworks.com/matlabcentral/profile/authors/10876168)
+- [QuotientRule](https://github.com/UnsignedChad/QuotientRule) -- alternative proof of the quotient rule (TeX).
 
 ### what i actually know
 
