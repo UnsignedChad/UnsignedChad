@@ -6,8 +6,6 @@
 
 <sub><i>art by <a href="https://en.wikipedia.org/wiki/Earl_Norem">Earl Norem</a></i></sub>
 
-<p><img src="https://komarev.com/ghpvc/?username=UnsignedChad&label=profile%20views&color=brightgreen&style=flat-square" alt="profile views" /></p>
-
 </td>
 <td valign="top">
 
@@ -51,6 +49,10 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### github
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=UnsignedChad&label=profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=UnsignedChad&theme=radical&hide_border=true" alt="github streak" />
