@@ -2,10 +2,9 @@
 <tr>
 <td width="260" valign="top">
 
-<!-- paste portrait here once merlin.jpg is uploaded:
-<img src="merlin.jpg" alt="Merlin by Earl Norem" width="240" />
+<img src="Merlin.jpg" alt="Merlin by Earl Norem" width="240" />
+
 <sub><i>art by <a href="https://en.wikipedia.org/wiki/Earl_Norem">Earl Norem</a></i></sub>
--->
 
 <p><img src="https://komarev.com/ghpvc/?username=UnsignedChad&label=profile%20views&color=brightgreen&style=flat-square" alt="profile views" /></p>
 
