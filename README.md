@@ -33,7 +33,4 @@
 
 ### github
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=UnsignedChad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="github stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnsignedChad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top languages" height="165" />
-</p>
+![metrics](./metrics.svg)
