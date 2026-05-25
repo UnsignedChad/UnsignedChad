@@ -34,6 +34,6 @@
 ### github
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=UnsignedChad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnsignedChad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UnsignedChad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="github stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnsignedChad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top languages" height="165" />
 </p>
