@@ -2,9 +2,10 @@
 <tr>
 <td width="260" valign="top">
 
+<!-- paste portrait here once merlin.jpg is uploaded:
 <img src="merlin.jpg" alt="Merlin by Earl Norem" width="240" />
-
 <sub><i>art by <a href="https://en.wikipedia.org/wiki/Earl_Norem">Earl Norem</a></i></sub>
+-->
 
 <p><img src="https://komarev.com/ghpvc/?username=UnsignedChad&label=profile%20views&color=brightgreen&style=flat-square" alt="profile views" /></p>
 
@@ -19,6 +20,7 @@
 | building     circuitcore (PI/SI/EMI for KiCad), VHDL-in-the-browser
 | stack        C/C++23, MATLAB, VHDL, CMake, Linux, Bash
 | workflow     small atomic commits, fast iteration, tests on the hot paths
+| funding      drowning in college debt. github.com/sponsors/UnsignedChad
 ```
 
 </td>
