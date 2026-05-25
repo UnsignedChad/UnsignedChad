@@ -29,6 +29,7 @@
 
 - **[circuitcore](https://github.com/UnsignedChad/circuitcore)** -- PCB analysis toolkit. pdnkit (power integrity), sikit (signal integrity), emikit (EMI / radiated emissions). C++23, Qt6, Eigen, SuiteSparse. one shared board model parsed from `.kicad_pcb`.
 - **[ghdl-wasm](https://github.com/UnsignedChad/ghdl-wasm)** / **[ghdl-browser](https://github.com/UnsignedChad/ghdl-browser)** -- GHDL compiled to WebAssembly so VHDL can run in a browser.
+- **[nvc-wasm](https://github.com/UnsignedChad/nvc-wasm)** -- NVC (alternative open-source VHDL compiler) ported to WebAssembly.
 - **[FPGA_Webserver](https://github.com/UnsignedChad/FPGA_Webserver)** -- completing hamsternz's abandoned VHDL web server. target: Arty A7-35T.
 
 ### academic
