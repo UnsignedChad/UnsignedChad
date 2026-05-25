@@ -11,10 +11,8 @@
 ### oss work
 
 - **[circuitcore](https://github.com/UnsignedChad/circuitcore)** -- PCB analysis toolkit. pdnkit (power integrity), sikit (signal integrity), emikit (EMI / radiated emissions). C++23, Qt6, Eigen, SuiteSparse. one shared board model parsed from `.kicad_pcb`.
-- **[VHDLive](https://github.com/UnsignedChad/VHDLive)** -- browser-based VHDL simulation environment.
 - **[ghdl-wasm](https://github.com/UnsignedChad/ghdl-wasm)** / **[ghdl-browser](https://github.com/UnsignedChad/ghdl-browser)** -- GHDL compiled to WebAssembly so VHDL can run in a browser.
 - **[FPGA_Webserver](https://github.com/UnsignedChad/FPGA_Webserver)** -- completing hamsternz's abandoned VHDL web server. target: Arty A7-35T.
-- **[etf-risky-bot](https://github.com/UnsignedChad/etf-risky-bot)** -- personal trading bot. LLM ensemble + PPO RL with a Textual TUI.
 
 ### academic
 
