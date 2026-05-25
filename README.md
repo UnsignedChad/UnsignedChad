@@ -50,4 +50,11 @@
 
 ### github
 
-![metrics](./metrics.svg)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=UnsignedChad&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnsignedChad&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=UnsignedChad&theme=radical&hide_border=true" alt="github streak" />
+</p>
