@@ -1,3 +1,16 @@
+<table>
+<tr>
+<td width="260" valign="top">
+
+<img src="merlin.jpg" alt="Merlin by Earl Norem" width="240" />
+
+<sub><i>Earl Norem, fantasy illustration. credit to the painter.</i></sub>
+
+<p><img src="https://komarev.com/ghpvc/?username=UnsignedChad&label=profile%20views&color=brightgreen&style=flat-square" alt="profile views" /></p>
+
+</td>
+<td valign="top">
+
 ```
 | UnsignedChad@github
 |
@@ -7,6 +20,10 @@
 | stack        C/C++23, MATLAB, VHDL, CMake, Linux, Bash
 | workflow     small atomic commits, fast iteration, tests on the hot paths
 ```
+
+</td>
+</tr>
+</table>
 
 ### oss work
 
