@@ -2,7 +2,7 @@
 <tr>
 <td width="260" valign="top">
 
-<img src="Merlin.jpg" alt="Merlin by Earl Norem" width="240" />
+<img src="Engineer_Merlin.jpg" alt="Merlin by Earl Norem" width="240" />
 
 <sub><i>art by <a href="https://en.wikipedia.org/wiki/Earl_Norem">Earl Norem</a></i></sub>
 
