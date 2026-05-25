@@ -1,5 +1,5 @@
 ```
-| chad@github
+| UnsignedChad@github
 |
 | status       EE/CpE undergrad. dropped out. going back to FSU fall 2026.
 | focus        open source, circuits, power systems, electronics, FPGA
