@@ -12,7 +12,7 @@
 ```
 | UnsignedChad@github
 |
-| status       EE/CpE undergrad. dropped out. going back to FSU fall 2026.
+| status       EE/CpE undergrad on hiatus. returning to FSU fall 2026.
 | focus        open source, circuits, power systems, electronics, FPGA
 | building     circuitcore (PI/SI/EMI for KiCad), VHDL-in-the-browser
 | stack        C/C++23, MATLAB, VHDL, CMake, Linux, Bash
