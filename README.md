@@ -35,7 +35,7 @@
 
 ### academic
 
-- Anthropic Cyber Verification Program (CVP) -- Approved for dual-use cybersecurity research (offensive security tooling, hardware/firmware analysis, and vulnerability research)
+
 - FSU Honors profile -- [honors.fsu.edu/charles-kennedy](https://honors.fsu.edu/charles-kennedy)
 - FSU CAPS (Center for Advanced Power Systems) personnel -- [caps.fsu.edu/.../charles-kennedy](https://www.caps.fsu.edu/about-caps/caps-personnel/charles-kennedy/)
 - Georgia Tech ITAC (Industrial Assessment Center) student -- [itac.university/center/georgia-institute-of-technology](https://itac.university/center/georgia-institute-of-technology#students)
