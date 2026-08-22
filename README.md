@@ -41,10 +41,10 @@
 - Georgia Tech ITAC (Industrial Assessment Center) student -- [itac.university/center/georgia-institute-of-technology](https://itac.university/center/georgia-institute-of-technology#students)
 - MATLAB Central -- [mathworks.com/matlabcentral/profile/authors/10876168](https://www.mathworks.com/matlabcentral/profile/authors/10876168)
 
-### Cybersecurity
-- hackerone: @unsignedchad, 1 critical, 2 high CVEs coming out soon.
-- Samsung VRP: 1 low , 1 critical CVEs publishing soon.
-- AI Cyber verification memberships: Anthropic, OpenAI
+### cybersecurity
+- hackerone: @unsignedchad, 1 critical, 2 high CVEs publishing soon.
+- samsung VRP: 1 low , 1 critical CVEs publishing soon.
+- AI cyber verification memberships: Anthropic, OpenAI
 
 ### what i enjoy
 
