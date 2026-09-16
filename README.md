@@ -42,8 +42,8 @@
 - MATLAB Central -- [mathworks.com/matlabcentral/profile/authors/10876168](https://www.mathworks.com/matlabcentral/profile/authors/10876168)
 
 ### cybersecurity
-- hackerone: @unsignedchad, 1 critical, 2 high CVEs publishing soon.
-- samsung VRP: 1 low , 1 critical CVEs publishing soon.
+- hackerone: @unsignedchad, 4 critical, 2 high CVEs publishing within 12 months.
+- samsung VRP: 2 reports accepted
 - AI cyber verification memberships: Anthropic, OpenAI
 
 ### what i enjoy
