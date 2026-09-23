@@ -12,21 +12,20 @@
 ```
 | UnsignedChad@github
 |
-| status       EE/CpE undergrad on hiatus. returning to FSU fall 2026.
+| status       EE & CpE undergrad, FSU graduating spring 2027
 | focus        open source, circuits, power systems, electronics, FPGA
-| building     circuitcore (PI/SI/EMI for KiCad), VHDL-in-the-browser
+| building     circuitcore (PI/SI/EMI for KiCad)
 | stack        C/C++23, MATLAB, VHDL, CMake, Linux, Bash
 | workflow     small atomic commits, fast iteration, tests on the hot paths
-| funding      drowning in college debt. github.com/sponsors/UnsignedChad
 ```
 
 </td>
 </tr>
 </table>
 
-### oss work
+### stuff i do
 
-- **[circuitcore](https://github.com/UnsignedChad/circuitcore)** -- PCB analysis toolkit. pdnkit (power integrity), sikit (signal integrity), emikit (EMI / radiated emissions). C++23, Qt6, Eigen, SuiteSparse. one shared board model parsed from `.kicad_pcb`.
+- **[circuitcore](https://github.com/UnsignedChad/circuitcore)** -- PCB analysis toolkit. pdnkit (power integrity), sikit (signal integrity), emikit (EMI / radiated emissions). C++23, Qt6, Eigen, SuiteSparse. one shared board model parsed from `.kicad_pcb`, closed source, launching with demo early 2027.
 - **[ghdl-wasm](https://github.com/UnsignedChad/ghdl-wasm)** / **[ghdl-browser](https://github.com/UnsignedChad/ghdl-browser)** -- GHDL compiled to WebAssembly so VHDL can run in a browser.
 - **[nvc-wasm](https://github.com/UnsignedChad/nvc-wasm)** -- NVC (alternative open-source VHDL compiler) ported to WebAssembly.
 - **[FPGA_Webserver](https://github.com/UnsignedChad/FPGA_Webserver)** -- completing hamsternz's abandoned VHDL web server. target: Arty A7-35T.
@@ -42,8 +41,7 @@
 - MATLAB Central -- [mathworks.com/matlabcentral/profile/authors/10876168](https://www.mathworks.com/matlabcentral/profile/authors/10876168)
 
 ### cybersecurity
-- hackerone: @unsignedchad, 4 critical, 2 high CVEs publishing within 12 months.
-- samsung VRP: 2 reports accepted
+- [CVEs will appear here as they get published.]
 - AI cyber verification memberships: Anthropic, OpenAI
 
 ### what i enjoy
