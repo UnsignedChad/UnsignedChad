@@ -1,4 +1,4 @@
-<table>
+<img width="689" height="148" alt="image" src="https://github.com/user-attachments/assets/45fcfd17-a441-47ef-b200-eeea01463b12" /><table>
 <tr>
 <td width="260" valign="top">
 
@@ -41,7 +41,7 @@
 - MATLAB Central -- [mathworks.com/matlabcentral/profile/authors/10876168](https://www.mathworks.com/matlabcentral/profile/authors/10876168)
 
 ### cybersecurity
-- [CVEs will appear here as they get published.]
+- CVE-2026-21155
 - AI cyber verification memberships: Anthropic, OpenAI
 
 ### what i enjoy
