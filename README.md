@@ -2,10 +2,6 @@
 <tr>
 <td width="260" valign="top">
 
-<img src="Engineer_Merlin.jpg" alt="Merlin by Earl Norem" width="240" />
-
-<sub><i>art by <a href="https://en.wikipedia.org/wiki/Earl_Norem">Earl Norem</a></i></sub>
-
 </td>
 <td valign="top">
 
@@ -15,8 +11,7 @@
 | status       EE & CpE undergrad, FSU graduating spring 2027
 | focus        open source, circuits, power systems, electronics, FPGA
 | building     circuitcore (PI/SI/EMI for KiCad)
-| stack        C/C++23, MATLAB, VHDL, CMake, Linux, Bash
-| workflow     small atomic commits, fast iteration, tests on the hot paths
+| stack        C/C++23, MATLAB, VHDL, CMake, Linux, Bash, Ghidra
 ```
 
 </td>
