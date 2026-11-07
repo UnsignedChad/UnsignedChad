@@ -8,7 +8,7 @@
 ```
 | UnsignedChad@github
 |
-| status       EE & CpE undergrad, FSU graduating spring 2027
+| status       EE B.S. & CpE B.S., FSU graduating spring 2027
 | focus        open source, circuits, power systems, electronics, FPGA
 | building     circuitcore (PI/SI/EMI for KiCad)
 | stack        C/C++23, MATLAB, VHDL, CMake, Linux, Bash, Ghidra
