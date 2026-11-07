@@ -7,6 +7,7 @@
 
 ```
 | UnsignedChad@github
+| @Unsignedbytes on X
 |
 | status       EE B.S. & CpE B.S., FSU graduating spring 2027
 | focus        open source, circuits, power systems, electronics, FPGA
